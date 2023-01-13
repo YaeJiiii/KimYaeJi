@@ -6,8 +6,6 @@
 
 <br><img src='https://user-images.githubusercontent.com/105334974/211476654-bda66575-bada-4805-bd33-a9a57800755d.jpg'> 
 
-$$ \pm $$
-
 <span style="color:LightSkyBlue"> **ABSTRACT:** </span> 
 Electrochemical alcohol oxidation is considered a promising alternative to the oxygen evolution reaction due to the production of high-value products and early onset potential. Herein, we analyze the different reactivities of NiOOH and Cu(OH)2 toward the electrochemical oxidation of alcohol and aldehyde on the furan ring and utilize their characteristics synergistically to enhance the performance of 5-hydroxymethylfurfural (HMF) to 2,5- furandicarboxylic acid (FDCA) conversion. We discovered that Cu(OH)2 has >higher reactivity for the oxidation of aldehyde to carboxylic acid than NiOOH, while NiOOH exhibited excellent reactivity toward the oxidation of alcohol to aldehyde. Furthermore, NiOOH−Cu(OH)2 mixed electrodes showed higher activity and faster conversion of HMF to FDCA than individual NiOOH or> Cu(OH)2 electrodes. The alcohol oxidation of HMF is initiated by NiOOH, and Cu(OH)2 quickly converts the remaining aldehydes to carboxylic acids at the NiOOH/Cu(OH)2 interface. Further enhancement of the HMF oxidation kinetics of NiOOH/Cu(OH)2 was achieved by  preparing a nanofoam structure comprising nanoscale pores and nanodendritic frames, showing instantaneous conversion to FDCA without producing unreacted intermediates.
 
@@ -65,7 +63,7 @@ To grow a uniform hydroxide layer at the surface, all the asprepared electrodes 
 
 <br>
 
-$$ \Large HMF\ conversation( \% )  = 1 - \left(\frac{c \ (remained \ HMF \ after \ reaction,\ mol)}{c \ (initial \ HMF,\ mol)}\right) \times 100 $$
+$$ \Large HMF\ conversation \%   = 1 - \left(\frac{c \ (remained \ HMF \ after \ reaction,\ mol)}{c \ (initial \ HMF,\ mol)}\right) \times 100 $$
 <br>
 
 $$ products\  yields= \frac{c \ (products \ formed,\ mol)}{c\ (initial\ HMF,\ mol)} \times 100 $$
