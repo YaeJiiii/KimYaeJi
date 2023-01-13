@@ -64,7 +64,7 @@ To grow a uniform hydroxide layer at the surface, all the asprepared electrodes 
 
 <br>
 
-$$ \Large HMF\ conversation(&#37)  = 1 - \left(\frac{c \ (remained \ HMF \ after \ reaction,\ mol)}{c \ (initial \ HMF,\ mol)}\right) \times 100 $$
+$$ \Large HMF\ conversation(%)  = 1 - \left(\frac{c \ (remained \ HMF \ after \ reaction,\ mol)}{c \ (initial \ HMF,\ mol)}\right) \times 100 $$
 <br>
 
 $$ products\  yields= \frac{c \ (products \ formed,\ mol)}{c\ (initial\ HMF,\ mol)} \times 100 $$
